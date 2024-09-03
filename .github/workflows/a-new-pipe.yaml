@@ -1,4 +1,4 @@
-name: CI/CD Pipeline
+name: CI/CD test pipe
 
 on:
   workflow_dispatch:
